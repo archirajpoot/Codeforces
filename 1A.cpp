@@ -12,6 +12,4 @@ int main(){
     int tiles_breath=(m+a-1)/a;
     int tiles_total=tiles_length*tiles_breath;
     cout<<tiles_total;
-    return 0;
-    
 }
